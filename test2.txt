@@ -1,2 +1,0 @@
-This is a test2 file.
-changes are made to this file.
