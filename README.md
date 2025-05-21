@@ -6,6 +6,7 @@ Each project demonstrates fundamental web development concepts with clean, well-
 ## Projects Included
 
 - Dice Roll Simulator
+- Arithmetic Calculator
 
 ## Features
 
