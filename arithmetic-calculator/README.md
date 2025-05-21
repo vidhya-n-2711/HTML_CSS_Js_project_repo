@@ -34,5 +34,7 @@ This project implements a user-friendly calculator capable of handling addition,
 ## Project Structure
 
 ├── index.html # Main HTML markup
+
 ├── style.css # Styling rules and responsive layout
+
 └── script.js # JavaScript functionality and form validation
